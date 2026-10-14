@@ -1,0 +1,15 @@
+{
+    "version": "1.0", 
+
+    "title": "320x250 Coop_Storlien", 
+    "description": "",  
+
+    "width" : "320", 
+    "height": "250", 
+
+    "clicktags": {
+        "clickTAG": "https://coopstorlien.se/"
+    },
+
+    "source": "index.html"
+}
